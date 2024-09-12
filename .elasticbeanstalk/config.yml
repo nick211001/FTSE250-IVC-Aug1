@@ -1,0 +1,9 @@
+branch-defaults:
+  default:
+    environment: FTSE250-IVC-env
+global:
+  application_name: FTSE250-IVC
+  default_platform: Node.js 14 running on 64bit Amazon Linux 2
+  default_region: us-east-1
+  profile: null
+  sc: git
